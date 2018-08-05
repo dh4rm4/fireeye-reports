@@ -1,0 +1,10 @@
+/*!
+ * Blog Styles
+ * Version: 1.0.0
+ */.blog-sidebar{padding-top:20px}
+@media(min-width:42em){.blog-sidebar{padding-top:30px}
+}
+@media(min-width:60em){.blog-sidebar{padding-top:60px}
+}
+.blog-sidebar .sidebar span:nth-child(3){padding-left:20px !important}
+.blog.main{margin-bottom:60px}
